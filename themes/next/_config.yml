@@ -141,7 +141,7 @@ social_icons:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-avatar: /images/bitcoin-cash-logo.svg
+avatar: /images/ifwallet_logo.png
 
 # Table Of Contents in the Sidebar
 toc:
