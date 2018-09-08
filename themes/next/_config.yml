@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.
-favicon: /favicon.ico
+favicon: https://ipfs.io/ipfs/QmVCzVpcT6dW1cbZE2Hs7rmpJPgCM6sJv7NBe62gvLH9Go
 
 # Set default keywords (Use a comma to separate)
 keywords: "计算机 比特币 互联网金融 IFWallet"
